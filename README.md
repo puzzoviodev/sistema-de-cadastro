@@ -2,7 +2,7 @@
 
 > Stattus do projeto : em desenvolvimento
 
-execute
+execute:
 
 ```
 npm install
