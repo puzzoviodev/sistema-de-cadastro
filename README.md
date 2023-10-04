@@ -5,6 +5,6 @@
 execute:
 
 ```
-npm install
+node app.js
 
 ```
